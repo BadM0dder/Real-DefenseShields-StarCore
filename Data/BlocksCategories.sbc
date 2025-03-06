@@ -1207,7 +1207,7 @@
       </BuildProgressModels>
       <BlockPairName>CompactEmitter</BlockPairName>
       <EdgeType>Light</EdgeType>
-      <BuildTimeSeconds>20</BuildTimeSeconds>
+      <BuildTimeSeconds>90</BuildTimeSeconds>
       <MountPoints>
 		<MountPoint Side="Front" StartX="0.00" StartY="0.00" EndX="1.00" EndY="0.50" />
 		<MountPoint Side="Back" StartX="0.00" StartY="0.00" EndX="1.00" EndY="0.50" />
